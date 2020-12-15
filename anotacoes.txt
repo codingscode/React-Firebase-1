@@ -1,0 +1,24 @@
+React App + Firebase
+
+*material-ui
+*express
+*react-redux
+*firebase
+
+*software postman
+
+terminal win:
+      npm i -g firebase-tools
+
+terminal da pasta:
+      firebase login
+      firebase init -> escolher Functions: Configure and deploy Cloud Functions -> ...
+      firebase deploy
+
+
+
+
+
+
+
+
